@@ -1,0 +1,15 @@
+.derecha{
+    text-align: right;
+}
+
+.centrado{
+    text-align: center;
+}
+.negritas{
+    font-weight: 700;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    
+}
