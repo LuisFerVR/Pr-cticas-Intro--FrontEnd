@@ -1,0 +1,61 @@
+.titulo{
+    background-color: red;
+    margin-bottom: 10px;
+    font-size: 5cm;
+    opacity: 8;
+    font-weight: bold;
+    text-align: center;
+    font-style: oblique;
+    color: aliceblue;
+}
+
+.input{
+    background-color: rgb(91, 7, 248);
+    color: rgb(253, 254, 255);
+    font-weight: bold;
+    text-align: center;
+    height: 0.5cm;
+    font-size: 100%;
+}
+
+.img{
+    position: absolute;
+    margin-top: -75px;
+    margin-left: 40%;
+    width: 380px;
+    height: 380px;
+}
+
+.boton{
+    background-color: rgb(248, 7, 176);
+    color: rgb(253, 254, 255);
+    font-weight: bold;
+    position: absolute;
+    left: 50px;
+}
+
+.tipo{
+    background-color: rgb(114, 131, 40);
+    color: rgb(253, 254, 255);
+    font-weight: bold;
+    width: 20%;
+}
+
+.idi{
+    background-color: rgb(1, 10, 24);
+    color: rgb(253, 254, 255);
+    font-weight: bold;
+    width: 20%;
+    opacity: 0.9;
+}
+
+.move{
+    background-color: rgb(219, 29, 29);
+    color: rgb(253, 254, 255);
+    font-weight: bold;
+    width: 20%;
+}
+
+.p{
+    font-family: cursive;
+}
